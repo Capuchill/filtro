@@ -1,0 +1,7 @@
+#quizas aqui empiece el filtro
+config user.email "orutvictoria05780@gamil.com"
+git remote add origin https://github.com/Capuchill/andromeda.git
+git branch -M main
+git push -u origin main
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
