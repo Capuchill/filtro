@@ -1,6 +1,6 @@
 import os 
 """ Elabore un programa Python para gestionar el CRUD del archivo de datos PetShopping.json con las siguientes funcionalidades:
-
+xs
     
 Mostrar en pantalla todas las mascotas a la venta visualizando: Tipo, Raza, Precio y Servicios
 
